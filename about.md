@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 Hello guys!
-My name is Tony, I'm IT-geek from Dnepro city,  
-Ukraine.  
+My name is Tony.  
+I'm IT-geek from Dnepro city,Ukraine.  
 And I like static web-sites very much, indeed!
 
 ### More Information
