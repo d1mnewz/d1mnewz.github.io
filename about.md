@@ -3,9 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-Hello guys!
+Hello guys!  
 My name is Tony.  
-
 I'm IT-geek from Dnepro city,Ukraine.  
 And I like static web-sites very much, indeed!
 
