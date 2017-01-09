@@ -3,13 +3,15 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
+Hello guys!
+My name is Tony, I'm IT-geek from Dnepro city, Ukraine.
+And I like static web-sites very much, indeed!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This is a very simple blog example powered by Jekyll and GitHub page.
+It is really awesome, isn't it?!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[pleskan@ex.ua](mailto:pleskan@ex.ua)
