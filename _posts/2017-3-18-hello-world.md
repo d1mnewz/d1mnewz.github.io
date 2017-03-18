@@ -17,8 +17,5 @@ One of the ways of sharing my thoughts. No one is reading this one, but who care
 And I suck at blogging. Just want this part to change, but the real progress comes only with practice. Seems legit, right?
 
 
-
-**Well**, a lot of crazy things are going on and I am one these things. 
-I'mma do it till i get game-over flash, but it's far from over.
-
-So I'm only 18 and I'm only getting better. If I haven't passed you yet, watch me catch up now - for real.
+<br>
+So I'm only 18 and I'm only **getting better**. If I haven't passed you yet, watch me catch up now - for real.
