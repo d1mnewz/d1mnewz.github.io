@@ -1,12 +1,13 @@
 Teamwork is not the last part in software development. Why?
-
 <img src = "http://s2.quickmeme.com/img/45/452b4456cb0f3bf7e3826c5a4b53853fc30ea71b766270c211a4e2169b6c65d3.jpg"/>
 
 Well, my experience is not that big, but i can say for sure - bad teams build bad software. And these bad projects have similar traits. 
 
 **No leadership**
 
-Have you ever worked in small SCRUM-like team where everyone's impact seems to be equal? I'm going to tell you one thing: the impact is equal because no one is doing their job. Like everyone is doing 0 job. 0 job * 10 members = 0 result. 
+Have you ever worked in small SCRUM-like team where everyone's impact seems to be equal? I'm going to tell you one thing: the impact is equal because no one is doing their job. Like everyone is doing 0 job.
+
+__0 job * 10 members = 0 result__. 
 
 Chaos, unhandled tasks, ego-harm, very poor decision making, low quality of made tasks. In Ukraine everyone talks about SCRUM, but no one uses it as it should be applied to our cases. Strong technical leaders just to control what is going on at project, just to make everything clear, just to code super-complicated parts on their own. This way also sets the habits for the rest of the team. People learn by example. Technical leaders have to set the example for others to follow, they have to lead the team. Actually, most of programmers I've met just can't go on their own, they simply need a leader who will tell them what to do and how to.
 
@@ -34,7 +35,7 @@ Probably, I am super toxic person.
 
 You can be good at writing code, but bad at communicating with other people. You have to change. Or die. 
 
-We are not in 200X, now big player companies provide service of making software. Software is made by people to people. P2P.
+We are not in 2000X, now big player companies provide service of making software. Software is made by people to people. P2P.
 Just make sure that you don't have toxic players in your team. Or atleast try to handle them properly, they are not made of glass, chill.
 
 Sometimes people become toxic because of lack of leadership, communication, programming skills etc etc etc. 
