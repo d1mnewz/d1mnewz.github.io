@@ -1,7 +1,7 @@
 ---
 layout: page
 title: i live here
-permalink: /me/
+permalink: /Me/
 ---
 
 ### whoami?
