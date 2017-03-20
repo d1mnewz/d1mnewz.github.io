@@ -33,6 +33,6 @@ What you need to do:
 
 Now you are good to go with continuous deployment, all of your secure web.config data will be stored on host as environment variables. Actually, you don't even need to change something in your release code because these variables overwrite existing ones. So if you are pushing and publishing with web.config where something is already defined, it is going to be overwritten. And e.g. the connection string will be taken from environment variables.
 
-For now we have a .gitignore with Web.config included, so we have to store current version on our local machines, but it won't be included in commits. When master updates, Azure via continuous deployment publishing updates to our App Service, so we don't have to worry about publishing at all, we are always up to date.
+For now we have a .gitignore with Web.config included, so we have to store current version on our local machines, but it won't be included in commits. When master updates, Azure via continuous deployment publishing updates from github master branch to our App Service, so we don't have to worry about publishing at all, we are always up to date.
 
 Seems good, right?  
