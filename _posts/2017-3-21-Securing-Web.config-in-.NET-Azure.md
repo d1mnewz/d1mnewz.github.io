@@ -23,7 +23,7 @@ What you need to do:
 
 * As result you should get something like this:
  <img src = "http://joxi.ru/BA0OxQkCWJj82y.png"/>
-* Notice that your entity framework connection string should be selected as **Custom**, not __SQL Database__.
+* Notice that your entity framework connection string should be selected as **Custom**, not <i>SQL Database</i>.
 * Also have a look at your entity framework connection string: if it has some '&quote ;' (no space) symbols, you must replace them with single quote symbols ('). As final your connection string for EntityFramework here must look like this:
 
 <q> <i>metadata=res://*/DaphneModel.csdl|res://*/DaphneModel.ssdl|res://*/DaphneModel.msl;provider=System.Data.SqlClient;provider connection string='data source=tcp:daphnebot.database.windows.net,1433;initial catalog=DaphneBot;persist security info=False;user id=user;password=pword;multipleactiveresultsets=True;connect timeout=30;encrypt=True;trustservercertificate=False;App=EntityFramework';</i></q>
