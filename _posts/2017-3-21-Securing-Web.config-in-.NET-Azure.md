@@ -26,7 +26,9 @@ What you need to do:
 * Notice that your entity framework connection string should be selected as **Custom**, not __SQL Database__.
 * Also have a look at your entity framework connection string: if it has some '&quote ;' (no space) symbols, you must replace them with single quote symbols ('). As final your connection string for EntityFramework here must look like this:
 
-<q> __metadata=res://*/DaphneModel.csdl|res://*/DaphneModel.ssdl|res://*/DaphneModel.msl;provider=System.Data.SqlClient;provider connection string='data source=tcp:daphnebot.database.windows.net,1433;initial catalog=DaphneBot;persist security info=False;user id=user;password=pword;multipleactiveresultsets=True;connect timeout=30;encrypt=True;trustservercertificate=False;App=EntityFramework';__</q>
+<q> <i>metadata=res://*/DaphneModel.csdl|res://*/DaphneModel.ssdl|res://*/DaphneModel.msl;provider=System.Data.SqlClient;provider connection string='data source=tcp:daphnebot.database.windows.net,1433;initial catalog=DaphneBot;persist security info=False;user id=user;password=pword;multipleactiveresultsets=True;connect timeout=30;encrypt=True;trustservercertificate=False;App=EntityFramework';</i></q>
+
+
 **Now what?**
 
 Now you are good to go with continuous deployment, all of your secure web.config data will be stored on host as environment variables. Actually, you don't even need to change something in your release code because these variables overwrite existing ones. So if you are pushing and publishing with web.config where something is already defined, it is going to be overwritten. And e.g. the connection string will be taken from environment variables.
