@@ -26,6 +26,7 @@ So let me tell you several points about F# & FP that will make you think twice b
 **Allocations and how do they affect performance**
 
 <img src = "https://media.makeameme.org/created/oh-functional-programming.jpg"/>
+
 Imagine you have a progress bar. Functional paradigm tells us not to change value of progress bar indicator, but to create a new progress bar with changed indicator value, return it and assign to the old one.
 Here you must ask yourself about allocations, think about every-row allocations and hope for the best, hope that compiler will inline everything for you. But eventually it won't, I'm sorry.
 
