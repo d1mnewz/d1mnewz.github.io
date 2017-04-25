@@ -1,4 +1,3 @@
-Why F# Sucks?
 <img src = "https://s-media-cache-ak0.pinimg.com/736x/06/f0/ee/06f0eeac077f1c29a3b4924ced5f34e4.jpg">
 
 
@@ -9,8 +8,10 @@ Why F# Sucks?
 
 
 
+Why F# Sucks?
 
-!!!DISCLAIMER!!!
+
+**!!!DISCLAIMER!!!**
 
 I am totally in love with F#, but there several cases where I find it irrationally bad.
 These cases are the reasons why I don't want to do pure FP @ .NET, there are a lot of situations where OOP C# fits much better than F#.
