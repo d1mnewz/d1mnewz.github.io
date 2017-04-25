@@ -3,6 +3,10 @@ Why F# Sucks?
 <img src = "https://s-media-cache-ak0.pinimg.com/736x/06/f0/ee/06f0eeac077f1c29a3b4924ced5f34e4.jpg">
 
 
+
+
+
+
 !!!DISCLAIMER!!!
 
 I am totally in love with F#, but there several cases where I find it irrationally bad.
@@ -19,7 +23,7 @@ So let me tell you several points about F# & FP that will make you think twice b
 
 <img src = "https://media.makeameme.org/created/oh-functional-programming.jpg"/>
 Imagine you have a progress bar. Functional paradigm tells us not to change value of progress bar indicator, but to create a new progress bar with changed indicator value, return it and assign to the old one.
-Here you must ask yourself about allocations, think about every-row allocations and hope for the best, hope that compiler will inline everything for you. But eventually it won't, I'm sorry. 
+Here you must ask yourself about allocations, think about every-row allocations and hope for the best, hope that compiler will inline everything for you. But eventually it won't, I'm sorry.
 
 
 **Tooling**
@@ -44,7 +48,7 @@ Try to search some big F# projects. F# is not new language, but Microsoft for so
 Do you know that F# has like 100+ operators? And you can define your own ones manually.
 That produces complexity and makes code less understandable.
 
-<img src = http://image.prntscr.com/image/2b4d0e8bab8a4c9c968983ed01a8e913.png"/>
+<img src = "http://image.prntscr.com/image/2b4d0e8bab8a4c9c968983ed01a8e913.png"/>
 <a href = "https://twitter.com/kot_2010/status/856123414637146112">src</a>
 
 Have you ever worked on a project with junior developer that is pretty ambitious and wants to show that junior isn't his level, that he can write really cool code.
