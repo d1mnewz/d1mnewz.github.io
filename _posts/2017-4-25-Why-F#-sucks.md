@@ -1,6 +1,9 @@
 Why F# Sucks?
-
 <img src = "https://s-media-cache-ak0.pinimg.com/736x/06/f0/ee/06f0eeac077f1c29a3b4924ced5f34e4.jpg">
+
+
+
+
 
 
 
