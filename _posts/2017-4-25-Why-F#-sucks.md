@@ -53,15 +53,20 @@ Try to search some big F# projects. F# is not new language, but Microsoft for so
 Do you know that F# has like 100+ operators? And you can define your own ones manually.
 That produces complexity and makes code less understandable.
 
-<img src = "http://image.prntscr.com/image/2b4d0e8bab8a4c9c968983ed01a8e913.png"/>
-<a href = "https://twitter.com/kot_2010/status/856123414637146112">src</a>
+
+You have to maintain F# code full of things like
+
+let (|>>=) a b = (flip Option.bind) a b
+
+Your feelings?
+
 
 Have you ever worked on a project with junior developer that is pretty ambitious and wants to show that junior isn't his level, that he can write really cool code.
 In his point of view cool code = complex code. And then you just look at his code and trying to figure out what is going on for like 10 minutes. Life is hard.
 Well, that's basically me.
 However, not only junior developers do that. So in F# you can write equal parts functions in a lot of different ways.
 
-EXAMPLE two different realizations of equal parts.
+
 
 
 **Integration with C#**
